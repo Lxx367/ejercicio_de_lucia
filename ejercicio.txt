@@ -1,5 +1,0 @@
-2 tipos de titulos, negrita, cursiva y una imagen. y un parrafo sobre nosotros. Mandar las dos direcciones, la visualizacion del index y la que pone.ios
-el archivo tiene que ser txt
-#Me llamo Lucía
-##Soy alumna de **Cuatrovientos**.
-(src) tiene que ir entre paréntesis
